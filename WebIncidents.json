@@ -1,0 +1,1104 @@
+[
+    {
+        "id": "151100",
+        "type": "Construction / Road Work",
+        "conditions": [
+            "Painting/Striping",
+            "Line Striping",
+            "Paving",
+            "Construction"
+        ],
+        "location": "I-265 North between MM 27.7 and 30.4 Area of Aiken Road in Jefferson County",
+        "creationDateUTC": "",
+        "incidentStart": "2021-07-06T20:00:00-04:00",
+        "incidentStartUTC": "2021-07-07T00:00:00Z",
+        "estimatedEnd": "999 Days 10 Hours ",
+        "estimatedEndDate": "2024-04-01T06:00:00-04:00",
+        "estimatedEndDateUTC": "2024-04-01T10:00:00Z",
+        "updateDate": "2023-04-26T17:17:12-04:00",
+        "updateDateUTC": "2023-04-26T21:17:12Z",
+        "vehiclesInvolved": "0",
+        "notes": "KYTC District 5 and The I-MOVE PROJECT advises motorist:  Nightly starting on July 6, 2021 from 8PM until 6AM traffic will be reduced to one lane on I-265 northbound for work on the shoulder. The lane closure will start near Aiken Road at MM 27.7 and continue to LA Grange Road at MM 30.4.",
+        "state": "Kentucky",
+        "county": "Jefferson",
+        "highway": "I-265",
+        "roadway": "I-265",
+        "direction": "N ",
+        "mileMarker": "27.7",
+        "endMileMarker": "30.4",
+        "latitude": "38.254800",
+        "longitude": "-85.502360",
+        "crossRoad": "Aiken Road",
+        "blockedLanes": "1",
+        "cardinalClosed": false,
+        "blockedLanesCardinal": "Left Shoulder and Left Lane Blocked.",
+        "numberOfBlockedTravelLanesCardinal": 1,
+        "nonCardinalClosed": false,
+        "blockedLanesNonCardinal": "",
+        "numberOfBlockedTravelLanesNonCardinal": 0,
+        "lanesCardinal": [
+            {
+                "order": 1,
+                "type": "shoulder",
+                "status": "closed"
+            },
+            {
+                "order": 2,
+                "type": "general",
+                "status": "closed"
+            },
+            {
+                "order": 3,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 4,
+                "type": "shoulder",
+                "status": "open"
+            }
+        ],
+        "lanesNonCardinal": [
+            
+        ],
+        "reduced_speed_limit_mph": "",
+        "reduced_speed_limit_kph": "",
+        "restrictions": [
+            
+        ],
+        "vehicleImpact": "",
+        "typesOfWork": ""
+    },
+    {
+        "id": "181588",
+        "type": "Construction / Road Work",
+        "conditions": [
+            
+        ],
+        "location": "I-265 East-West between MM 15.6 and 18.8 Between Beulah Church Road and Billtown Road in Jefferson County",
+        "creationDateUTC": "2023-05-20T15:05:41Z",
+        "incidentStart": "2023-05-20T11:02:27-04:00",
+        "incidentStartUTC": "2023-05-20T15:02:27Z",
+        "estimatedEnd": "100 Days ",
+        "estimatedEndDate": "2023-08-28T11:02:27-04:00",
+        "estimatedEndDateUTC": "2023-08-28T15:02:27Z",
+        "updateDate": "2023-08-15T21:58:29-04:00",
+        "updateDateUTC": "2023-08-16T01:58:29Z",
+        "vehiclesInvolved": "0",
+        "notes": "I-265 (Gene Snyder Freeway): Lane closures and delays are possible on weekdays from 9 p.m. to 5 a.m. and weekends beginning Friday at 9 p.m. and continuing through Monday at 5 a.m. The total project limits are from just past the KY 864/Beulah Church Road interchange (mile point 15.6) to beyond the U.S. 31E/Bardstown Road interchange (mile point 18.80). The U.S. 31E/Bardstown Road interchange will also be included in the work, and lane closures are possible on the ramps. Crews will complete subgrade repair and slab replacement in advance of an upcoming pavement rehabilitation project. The project is expected to be completed in the fall of 2023.",
+        "state": "Kentucky",
+        "county": "Jefferson",
+        "highway": "I-265",
+        "roadway": "I-265",
+        "direction": "EW",
+        "mileMarker": "15.6",
+        "endMileMarker": "18.8",
+        "latitude": "38.126970",
+        "longitude": "-85.607690",
+        "crossRoad": "Beulah Church Road and Billtown Road",
+        "blockedLanes": "1",
+        "cardinalClosed": false,
+        "blockedLanesCardinal": "Left Shoulder and Left Lane Blocked.",
+        "numberOfBlockedTravelLanesCardinal": 1,
+        "nonCardinalClosed": false,
+        "blockedLanesNonCardinal": "Right Shoulder Blocked. All Lanes Open.",
+        "numberOfBlockedTravelLanesNonCardinal": 0,
+        "lanesCardinal": [
+            {
+                "order": 1,
+                "type": "shoulder",
+                "status": "closed"
+            },
+            {
+                "order": 2,
+                "type": "general",
+                "status": "closed"
+            },
+            {
+                "order": 3,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 4,
+                "type": "shoulder",
+                "status": "open"
+            }
+        ],
+        "lanesNonCardinal": [
+            {
+                "order": 1,
+                "type": "shoulder",
+                "status": "open"
+            },
+            {
+                "order": 2,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 3,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 4,
+                "type": "shoulder",
+                "status": "closed"
+            }
+        ],
+        "reduced_speed_limit_mph": "",
+        "reduced_speed_limit_kph": "",
+        "restrictions": [
+            
+        ],
+        "vehicleImpact": "",
+        "typesOfWork": ""
+    },
+    {
+        "id": "181855",
+        "type": "Construction / Road Work",
+        "conditions": [
+            "Construction"
+        ],
+        "location": "I-71 South between MM 21.0 and 20.0 Area of KY 393 in Oldham County",
+        "creationDateUTC": "2023-05-24T15:19:28Z",
+        "incidentStart": "2023-05-24T11:19:01-04:00",
+        "incidentStartUTC": "2023-05-24T15:19:01Z",
+        "estimatedEnd": "600 Days ",
+        "estimatedEndDate": "2025-01-13T10:19:01-05:00",
+        "estimatedEndDateUTC": "2025-01-13T15:19:01Z",
+        "updateDate": "2023-10-30T12:37:38-04:00",
+        "updateDateUTC": "2023-10-30T16:37:38Z",
+        "vehiclesInvolved": "0",
+        "notes": "I-71 South: Right lane closure and delays are possible from 10 a.m. Monday, May 8 through 8 p.m. Friday, June 9, between mile marker 21 and mile marker 20. Contract crews will perform excavation and subgrade preparation for constructing the new interchange ramps at KY 2857 (LaGrange Parkway) between KY 53 and KY 393. Motorists should obey restrictions and drive cautiously through the construction zone. It is advised to seek an alternate route if possible. The construction is expected to be completed in the fall of 2024.",
+        "state": "Kentucky",
+        "county": "Oldham",
+        "highway": "I-71",
+        "roadway": "I-71",
+        "direction": "S ",
+        "mileMarker": "21.0",
+        "endMileMarker": "20.0",
+        "latitude": "38.389080",
+        "longitude": "-85.404610",
+        "crossRoad": "KY 393",
+        "blockedLanes": "1",
+        "cardinalClosed": false,
+        "blockedLanesCardinal": "",
+        "numberOfBlockedTravelLanesCardinal": 0,
+        "nonCardinalClosed": false,
+        "blockedLanesNonCardinal": "Right Lane and Right Shoulder Blocked.",
+        "numberOfBlockedTravelLanesNonCardinal": 1,
+        "lanesCardinal": [
+            
+        ],
+        "lanesNonCardinal": [
+            {
+                "order": 1,
+                "type": "shoulder",
+                "status": "open"
+            },
+            {
+                "order": 2,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 3,
+                "type": "general",
+                "status": "closed"
+            },
+            {
+                "order": 4,
+                "type": "shoulder",
+                "status": "closed"
+            }
+        ],
+        "reduced_speed_limit_mph": "",
+        "reduced_speed_limit_kph": "",
+        "restrictions": [
+            
+        ],
+        "vehicleImpact": "",
+        "typesOfWork": ""
+    },
+    {
+        "id": "184534",
+        "type": "Construction / Road Work",
+        "conditions": [
+            "Construction",
+            "Temp Closure",
+            "Mowing/Paving/Potholes"
+        ],
+        "location": "I-65 North-South between MM 104.7 and 110.7 Area of Preston Hwy.  in Bullitt County",
+        "creationDateUTC": "2023-06-27T15:12:15Z",
+        "incidentStart": "2023-06-27T11:10:05-04:00",
+        "incidentStartUTC": "2023-06-27T15:10:05Z",
+        "estimatedEnd": "90 Days ",
+        "estimatedEndDate": "2023-09-25T11:10:05-04:00",
+        "estimatedEndDateUTC": "2023-09-25T15:10:05Z",
+        "updateDate": "2023-06-27T11:16:34-04:00",
+        "updateDateUTC": "2023-06-27T15:16:34Z",
+        "vehiclesInvolved": "0",
+        "notes": "KYTC will be perfoming ashphalt pavement and roadway rehabilitation of I-65 North/South between mile 104.7 and 110.7. Motorists should expect changing traffic patterns, lane shifts, and closures as contruction progresses. ",
+        "state": "Kentucky",
+        "county": "Bullitt",
+        "highway": "I-65",
+        "roadway": "I-65",
+        "direction": "NS",
+        "mileMarker": "104.7",
+        "endMileMarker": "110.7",
+        "latitude": "37.827570",
+        "longitude": "-85.721050",
+        "crossRoad": "Preston Hwy. ",
+        "blockedLanes": "2",
+        "cardinalClosed": false,
+        "blockedLanesCardinal": "Right Lane and Right Shoulder Blocked.",
+        "numberOfBlockedTravelLanesCardinal": 1,
+        "nonCardinalClosed": false,
+        "blockedLanesNonCardinal": "Right Lane and Right Shoulder Blocked.",
+        "numberOfBlockedTravelLanesNonCardinal": 1,
+        "lanesCardinal": [
+            {
+                "order": 1,
+                "type": "shoulder",
+                "status": "open"
+            },
+            {
+                "order": 2,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 3,
+                "type": "general",
+                "status": "closed"
+            },
+            {
+                "order": 4,
+                "type": "shoulder",
+                "status": "closed"
+            }
+        ],
+        "lanesNonCardinal": [
+            {
+                "order": 1,
+                "type": "shoulder",
+                "status": "open"
+            },
+            {
+                "order": 2,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 3,
+                "type": "general",
+                "status": "closed"
+            },
+            {
+                "order": 4,
+                "type": "shoulder",
+                "status": "closed"
+            }
+        ],
+        "reduced_speed_limit_mph": "",
+        "reduced_speed_limit_kph": "",
+        "restrictions": [
+            
+        ],
+        "vehicleImpact": "",
+        "typesOfWork": ""
+    },
+    {
+        "id": "169835",
+        "type": "Construction / Road Work",
+        "conditions": [
+            "Mowing/Paving/Potholes",
+            "Rolling Roadwork",
+            "Temp Closure"
+        ],
+        "location": "I-64 East-West between MM 47.0 and 52.0 Area of U.S 60 in Franklin County",
+        "creationDateUTC": "",
+        "incidentStart": "2022-10-25T18:00:00-04:00",
+        "incidentStartUTC": "2022-10-25T22:00:00Z",
+        "estimatedEnd": "999 Days ",
+        "estimatedEndDate": "2025-07-20T18:00:00-04:00",
+        "estimatedEndDateUTC": "2025-07-20T22:00:00Z",
+        "updateDate": "2023-12-07T22:23:06-05:00",
+        "updateDateUTC": "2023-12-08T03:23:06Z",
+        "vehiclesInvolved": "0",
+        "notes": "The Kentucky Transportation Cabinet (KYTC) advises motorists of the Interstate 64 East ramp closure tonight, December 7, in Franklin County.\n\nThe on-ramp to I-64 East from KY 151 will be closed from 6 p.m. to midnight, Thursday, December 7.  \n\nThe closure is necessary for KYTC crews to cut back vegetation along the interstate ramp in a process known as rail mowing. Motorists should heed signage, use caution, and expect delays while traveling through the work zones.\n\nI-64 East & West: \nDaily lane shifts, rolling roadblocks, and traffic delays are possible between mile markers 47 and 52 for an ongoing bridge replacement project. Oversized vehicles are alerted to an 11-foot width restriction for both eastbound and westbound directions in the construction zone. \n\nThese vehicles can utilize U.S. 60 and U.S. 127 as a detour. The four sets of bridges being replaced are over KY 2817 (Cardwell Lane) at mile point 51.5; KY 151 (Graefenburg Road) at mile point 46.4, South Benson Creek at mile point 49.1 and KY 1665 (Evergreen Road) at mile point 49.8. \n\nFlagging operations may be required on KY 151, KY 1665, and KY 2817. The project is expected to be completed in late fall 2023.",
+        "state": "Kentucky",
+        "county": "Franklin",
+        "highway": "I-64",
+        "roadway": "I-64",
+        "direction": "EW",
+        "mileMarker": "47.0",
+        "endMileMarker": "52.0",
+        "latitude": "38.146950",
+        "longitude": "-84.979630",
+        "crossRoad": "U.S 60",
+        "blockedLanes": "0",
+        "cardinalClosed": false,
+        "blockedLanesCardinal": "Right Ramp and Right Shoulder Blocked. All Lanes Open.",
+        "numberOfBlockedTravelLanesCardinal": 0,
+        "nonCardinalClosed": false,
+        "blockedLanesNonCardinal": "",
+        "numberOfBlockedTravelLanesNonCardinal": 0,
+        "lanesCardinal": [
+            {
+                "order": 1,
+                "type": "shoulder",
+                "status": "open"
+            },
+            {
+                "order": 2,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 3,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 4,
+                "type": "ramp",
+                "status": "closed"
+            },
+            {
+                "order": 5,
+                "type": "shoulder",
+                "status": "closed"
+            }
+        ],
+        "lanesNonCardinal": [
+            
+        ],
+        "reduced_speed_limit_mph": "",
+        "reduced_speed_limit_kph": "",
+        "restrictions": [
+            
+        ],
+        "vehicleImpact": "",
+        "typesOfWork": ""
+    },
+    {
+        "id": "153908",
+        "type": "Construction / Road Work",
+        "conditions": [
+            "Painting/Striping",
+            "Expansion Joint",
+            "Construction",
+            "Temp Closure",
+            "Bridge Work",
+            "Paving",
+            "Line Striping"
+        ],
+        "location": "I-64 East-West between MM 0.7 and 0.1 At Sherman Minton Bridge in Jefferson County",
+        "creationDateUTC": "",
+        "incidentStart": "2021-08-27T22:00:00-04:00",
+        "incidentStartUTC": "2021-08-28T02:00:00Z",
+        "estimatedEnd": "999 Days ",
+        "estimatedEndDate": "2024-05-22T22:00:00-04:00",
+        "estimatedEndDateUTC": "2024-05-23T02:00:00Z",
+        "updateDate": "2024-01-24T02:34:17-05:00",
+        "updateDateUTC": "2024-01-24T07:34:17Z",
+        "vehiclesInvolved": "0",
+        "notes": "Phase 4 of the Sherman Minton Renewal project is scheduled to start on or after November 20 and last for several months. Phase 4 will include painting, deck replacement on the upper deck and any necessary steel repairs.\n\nDuring Phase 4, one lane will be closed in each direction to safely allow construction work while keeping the bridge open. Two eastbound lanes and one westbound lane will be open on the bottom deck, with barrier walls used to separate traffic. One westbound lane will remain open on the top deck. Barrier walls will be in place to separate the construction zone.\n\nTemporary crossovers will be in place in Indiana and Kentucky to allow a westbound lane of traffic to shift to the eastbound direction.",
+        "state": "Kentucky",
+        "county": "Jefferson",
+        "highway": "I-64",
+        "roadway": "I-64",
+        "direction": "EW",
+        "mileMarker": "0.7",
+        "endMileMarker": "0.1",
+        "latitude": "38.276160",
+        "longitude": "-85.819240",
+        "crossRoad": "Sherman Minton Bridge",
+        "blockedLanes": "1",
+        "cardinalClosed": false,
+        "blockedLanesCardinal": "Left Lane Blocked.",
+        "numberOfBlockedTravelLanesCardinal": 1,
+        "nonCardinalClosed": false,
+        "blockedLanesNonCardinal": "All Lanes Open.",
+        "numberOfBlockedTravelLanesNonCardinal": 0,
+        "lanesCardinal": [
+            {
+                "order": 1,
+                "type": "general",
+                "status": "closed"
+            },
+            {
+                "order": 2,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 3,
+                "type": "ramp",
+                "status": "open"
+            }
+        ],
+        "lanesNonCardinal": [
+            {
+                "order": 1,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 2,
+                "type": "general",
+                "status": "open"
+            }
+        ],
+        "reduced_speed_limit_mph": "",
+        "reduced_speed_limit_kph": "",
+        "restrictions": [
+            
+        ],
+        "vehicleImpact": "",
+        "typesOfWork": ""
+    },
+    {
+        "id": "190041",
+        "type": "Construction / Road Work",
+        "conditions": [
+            "Mowing/Paving/Potholes"
+        ],
+        "location": "I-275 East-West between MM 1.5 and 7.3 From Mineola Pike to just past KY 237 in Kenton County",
+        "creationDateUTC": "2023-08-28T22:59:43Z",
+        "incidentStart": "2023-08-28T18:56:59-04:00",
+        "incidentStartUTC": "2023-08-28T22:56:59Z",
+        "estimatedEnd": "300 Days ",
+        "estimatedEndDate": "2024-06-23T18:56:59-04:00",
+        "estimatedEndDateUTC": "2024-06-23T22:56:59Z",
+        "updateDate": "2023-12-11T13:59:23-05:00",
+        "updateDateUTC": "2023-12-11T18:59:23Z",
+        "vehiclesInvolved": "0",
+        "notes": "I-275 \u2013 1.58 \u2013 7.25 mile points \u2013 A resurfacing project on I-275 from Hebron to Mineola Pike will begin Sunday, Aug. 27. The project will include partial/full-depth concrete patching and diamond grinding. Additionally, the KY 3076 (Mineola Pike), KY 212 (Airport Access Road), and KY 237 (Hebron) on/off exit ramps will be resurfaced. The project will require the off-ramp from I-275 westbound to KY 212 (Airport Access Road) to be temporarily closed on pre-approved scheduled weekends. KYTC will make an announcement via press release/social media ahead of the closure to keep motorists informed, and provide detour information during the closure.\n\nTraffic may be reduced to one lane in each direction during the following times:\n\nWeeknights from 9 p.m. to 5 a.m.\nWeekends from 9 p.m. Friday, until 5 a.m. the following Monday.\u200b\n\nThe contractor will maintain a minimum of two lanes of traffic in each direction at all other times.\n\nThe project is expected to be completed by June 30, 2024.",
+        "state": "Kentucky",
+        "county": "Kenton",
+        "highway": "I-275",
+        "roadway": "I-275",
+        "direction": "EW",
+        "mileMarker": "1.5",
+        "endMileMarker": "7.3",
+        "latitude": "39.049120",
+        "longitude": "-84.619590",
+        "crossRoad": "Mineola Pike to just past KY 237",
+        "blockedLanes": "0",
+        "cardinalClosed": false,
+        "blockedLanesCardinal": "All Lanes Open.",
+        "numberOfBlockedTravelLanesCardinal": 0,
+        "nonCardinalClosed": false,
+        "blockedLanesNonCardinal": "All Lanes Open.",
+        "numberOfBlockedTravelLanesNonCardinal": 0,
+        "lanesCardinal": [
+            {
+                "order": 1,
+                "type": "shoulder",
+                "status": "open"
+            },
+            {
+                "order": 2,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 3,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 4,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 5,
+                "type": "shoulder",
+                "status": "open"
+            }
+        ],
+        "lanesNonCardinal": [
+            {
+                "order": 1,
+                "type": "shoulder",
+                "status": "open"
+            },
+            {
+                "order": 2,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 3,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 4,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 5,
+                "type": "shoulder",
+                "status": "open"
+            }
+        ],
+        "reduced_speed_limit_mph": "",
+        "reduced_speed_limit_kph": "",
+        "restrictions": [
+            
+        ],
+        "vehicleImpact": "",
+        "typesOfWork": ""
+    },
+    {
+        "id": "175726",
+        "type": "Construction / Road Work",
+        "conditions": [
+            "Rolling Roadwork",
+            "Construction",
+            "Rain",
+            "Wet Pavement"
+        ],
+        "location": "I-71 North-South between MM 12.0 and 14.0 Area of KY 329 in Oldham County",
+        "creationDateUTC": "2023-02-16T16:03:04Z",
+        "incidentStart": "2023-02-16T11:00:35-05:00",
+        "incidentStartUTC": "2023-02-16T16:00:35Z",
+        "estimatedEnd": "400 Days ",
+        "estimatedEndDate": "2024-03-22T12:00:35-04:00",
+        "estimatedEndDateUTC": "2024-03-22T16:00:35Z",
+        "updateDate": "2023-08-14T15:58:59-04:00",
+        "updateDateUTC": "2023-08-14T19:58:59Z",
+        "vehiclesInvolved": "0",
+        "notes": "Blasting along I-71 North/South will resume today thru the next several months as part of the I-Move Kentucky project to expand I-71 to six lanes. Crews will perform regular blasting work along I-71 between mile 12 and mile 14. The timeframe for blasting will generally be weekdays between 2:00 p.m. and 3:30 p.m.when weather conditions are dry. Rollng traffic stoppages will be in effect for both northbound and southbound lanes. Drivers should use caution when traveling through active work zones. ",
+        "state": "Kentucky",
+        "county": "Oldham",
+        "highway": "I-71",
+        "roadway": "I-71",
+        "direction": "NS",
+        "mileMarker": "12.0",
+        "endMileMarker": "14.0",
+        "latitude": "38.333420",
+        "longitude": "-85.534130",
+        "crossRoad": "KY 329",
+        "blockedLanes": "0",
+        "cardinalClosed": false,
+        "blockedLanesCardinal": "All Lanes Open.",
+        "numberOfBlockedTravelLanesCardinal": 0,
+        "nonCardinalClosed": false,
+        "blockedLanesNonCardinal": "All Lanes Open.",
+        "numberOfBlockedTravelLanesNonCardinal": 0,
+        "lanesCardinal": [
+            {
+                "order": 1,
+                "type": "shoulder",
+                "status": "open"
+            },
+            {
+                "order": 2,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 3,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 4,
+                "type": "shoulder",
+                "status": "open"
+            }
+        ],
+        "lanesNonCardinal": [
+            {
+                "order": 1,
+                "type": "shoulder",
+                "status": "open"
+            },
+            {
+                "order": 2,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 3,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 4,
+                "type": "shoulder",
+                "status": "open"
+            }
+        ],
+        "reduced_speed_limit_mph": "",
+        "reduced_speed_limit_kph": "",
+        "restrictions": [
+            
+        ],
+        "vehicleImpact": "",
+        "typesOfWork": ""
+    },
+    {
+        "id": "133354",
+        "type": "Construction / Road Work",
+        "conditions": [
+            "Construction",
+            "Temp Closure"
+        ],
+        "location": "I-265 North-South between MM 30.0 and 23.0 Between Old Henry Rd and I-64 in Jefferson County",
+        "creationDateUTC": "",
+        "incidentStart": "2020-05-19T09:00:48-04:00",
+        "incidentStartUTC": "2020-05-19T13:00:48Z",
+        "estimatedEnd": "999 Days 10 Hours ",
+        "estimatedEndDate": "2023-02-12T18:00:48-05:00",
+        "estimatedEndDateUTC": "2023-02-12T23:00:48Z",
+        "updateDate": "2023-11-14T06:18:13-05:00",
+        "updateDateUTC": "2023-11-14T11:18:13Z",
+        "vehiclesInvolved": "0",
+        "notes": "Gene Snyder Freeway, between Interstate 64 ramps and La Grange Road\n\n8/2/2023 Guardrail maintenance on Interstate 265 (Gene Snyder Freeway) will require a lane closure starting tonight, Wednesday, Aug. 2. The work is part of the I-Move Kentucky project.\n \nBeginning at 8 p.m. Wednesday, the left lane of I-265 South will be closed from KY 146/La Grange Road (Exit 30) to the Avoca Quarry Road bridge near mile marker 28. The closure will last until 6 a.m. Thursday, Aug. 3.\n\nA construction crew will be milling and replacing existing asphalt in preparation for the eventual widening of I-265.\n\nRoadword located between mile point 23 and mile point 30 of I-265\nNightly closures of one lane in either direction\nWork will occur between 8 p.m. and 6 a.m.\n",
+        "state": "Kentucky",
+        "county": "Jefferson",
+        "highway": "I-265",
+        "roadway": "I-265",
+        "direction": "NS",
+        "mileMarker": "30.0",
+        "endMileMarker": "23.0",
+        "latitude": "38.226610",
+        "longitude": "-85.505340",
+        "crossRoad": "Old Henry Rd and I-64",
+        "blockedLanes": "0",
+        "cardinalClosed": false,
+        "blockedLanesCardinal": "Right Shoulder Blocked. All Lanes Open.",
+        "numberOfBlockedTravelLanesCardinal": 0,
+        "nonCardinalClosed": false,
+        "blockedLanesNonCardinal": "Right Shoulder Blocked. All Lanes Open.",
+        "numberOfBlockedTravelLanesNonCardinal": 0,
+        "lanesCardinal": [
+            {
+                "order": 1,
+                "type": "shoulder",
+                "status": "open"
+            },
+            {
+                "order": 2,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 3,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 4,
+                "type": "shoulder",
+                "status": "closed"
+            }
+        ],
+        "lanesNonCardinal": [
+            {
+                "order": 1,
+                "type": "shoulder",
+                "status": "open"
+            },
+            {
+                "order": 2,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 3,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 4,
+                "type": "shoulder",
+                "status": "closed"
+            }
+        ],
+        "reduced_speed_limit_mph": "",
+        "reduced_speed_limit_kph": "",
+        "restrictions": [
+            
+        ],
+        "vehicleImpact": "",
+        "typesOfWork": ""
+    },
+    {
+        "id": "202354",
+        "type": "Crash",
+        "conditions": [
+            "Rain",
+            "Passenger Vehicle",
+            "Wet Pavement"
+        ],
+        "location": "I-65 South at MM 136.5 Area of Kennedy Bridge in Jefferson County",
+        "creationDateUTC": "2024-01-24T16:25:33Z",
+        "incidentStart": "2024-01-24T11:24:22-05:00",
+        "incidentStartUTC": "2024-01-24T16:24:22Z",
+        "estimatedEnd": "1 Hours ",
+        "estimatedEndDate": "2024-01-24T12:24:22-05:00",
+        "estimatedEndDateUTC": "2024-01-24T17:24:22Z",
+        "updateDate": "2024-01-24T12:15:37-05:00",
+        "updateDateUTC": "2024-01-24T17:15:37Z",
+        "vehiclesInvolved": "2",
+        "notes": "May be viewed on CCTV_05_65_1365",
+        "state": "Kentucky",
+        "county": "Jefferson",
+        "highway": "I-65",
+        "roadway": "I-65",
+        "direction": "S ",
+        "mileMarker": "136.5",
+        "endMileMarker": "",
+        "latitude": "38.260730",
+        "longitude": "-85.741540",
+        "crossRoad": "Kennedy Bridge",
+        "blockedLanes": "0",
+        "cardinalClosed": false,
+        "blockedLanesCardinal": "",
+        "numberOfBlockedTravelLanesCardinal": 0,
+        "nonCardinalClosed": false,
+        "blockedLanesNonCardinal": "Right Shoulder Blocked. All Lanes Open.",
+        "numberOfBlockedTravelLanesNonCardinal": 0,
+        "lanesCardinal": [
+            
+        ],
+        "lanesNonCardinal": [
+            {
+                "order": 1,
+                "type": "shoulder",
+                "status": "open"
+            },
+            {
+                "order": 2,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 3,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 4,
+                "type": "shoulder",
+                "status": "closed"
+            }
+        ],
+        "reduced_speed_limit_mph": "",
+        "reduced_speed_limit_kph": "",
+        "restrictions": [
+            
+        ],
+        "vehicleImpact": "",
+        "typesOfWork": ""
+    },
+    {
+        "id": "202356",
+        "type": "Disabled Vehicle-Occupied",
+        "conditions": [
+            "Wet Pavement",
+            "Rain",
+            "Commercial Motor Vehicle"
+        ],
+        "location": "I-264 East at MM 11.6 Approaching I-65 in Jefferson County",
+        "creationDateUTC": "2024-01-24T16:34:10Z",
+        "incidentStart": "2024-01-24T11:33:37-05:00",
+        "incidentStartUTC": "2024-01-24T16:33:37Z",
+        "estimatedEnd": "1 Hours ",
+        "estimatedEndDate": "2024-01-24T12:33:37-05:00",
+        "estimatedEndDateUTC": "2024-01-24T17:33:37Z",
+        "updateDate": "2024-01-24T12:19:33-05:00",
+        "updateDateUTC": "2024-01-24T17:19:33Z",
+        "vehiclesInvolved": "1",
+        "notes": "May be viewed on CCTV_05_264_0116",
+        "state": "Kentucky",
+        "county": "Jefferson",
+        "highway": "I-264",
+        "roadway": "I-264",
+        "direction": "E ",
+        "mileMarker": "11.6",
+        "endMileMarker": "",
+        "latitude": "38.189740",
+        "longitude": "-85.738540",
+        "crossRoad": "I-65",
+        "blockedLanes": "0",
+        "cardinalClosed": false,
+        "blockedLanesCardinal": "Right Shoulder Blocked. All Lanes Open.",
+        "numberOfBlockedTravelLanesCardinal": 0,
+        "nonCardinalClosed": false,
+        "blockedLanesNonCardinal": "",
+        "numberOfBlockedTravelLanesNonCardinal": 0,
+        "lanesCardinal": [
+            {
+                "order": 1,
+                "type": "shoulder",
+                "status": "open"
+            },
+            {
+                "order": 2,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 3,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 4,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 5,
+                "type": "shoulder",
+                "status": "closed"
+            }
+        ],
+        "lanesNonCardinal": [
+            
+        ],
+        "reduced_speed_limit_mph": "",
+        "reduced_speed_limit_kph": "",
+        "restrictions": [
+            
+        ],
+        "vehicleImpact": "",
+        "typesOfWork": ""
+    },
+    {
+        "id": "202357",
+        "type": "Disabled Vehicle-Occupied",
+        "conditions": [
+            "Commercial Motor Vehicle",
+            "Rain",
+            "Wet Pavement",
+            "Overcast Cloudy"
+        ],
+        "location": "I-71/75 South at MM 190.1 Area of 12th Street in Kenton County",
+        "creationDateUTC": "2024-01-24T17:15:01Z",
+        "incidentStart": "2024-01-24T12:14:13-05:00",
+        "incidentStartUTC": "2024-01-24T17:14:13Z",
+        "estimatedEnd": "1 Hours ",
+        "estimatedEndDate": "2024-01-24T13:14:13-05:00",
+        "estimatedEndDateUTC": "2024-01-24T18:14:13Z",
+        "updateDate": "2024-01-24T12:15:21-05:00",
+        "updateDateUTC": "2024-01-24T17:15:21Z",
+        "vehiclesInvolved": "1",
+        "notes": "May be viewed on camera CCTV_06_75_1896. ",
+        "state": "Kentucky",
+        "county": "Kenton",
+        "highway": "I-71/75",
+        "roadway": "I-71/75",
+        "direction": "S ",
+        "mileMarker": "190.1",
+        "endMileMarker": "",
+        "latitude": "39.071580",
+        "longitude": "-84.519450",
+        "crossRoad": "12th Street",
+        "blockedLanes": "0",
+        "cardinalClosed": false,
+        "blockedLanesCardinal": "",
+        "numberOfBlockedTravelLanesCardinal": 0,
+        "nonCardinalClosed": false,
+        "blockedLanesNonCardinal": "Right Shoulder Blocked. All Lanes Open.",
+        "numberOfBlockedTravelLanesNonCardinal": 0,
+        "lanesCardinal": [
+            
+        ],
+        "lanesNonCardinal": [
+            {
+                "order": 1,
+                "type": "shoulder",
+                "status": "open"
+            },
+            {
+                "order": 2,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 3,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 4,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 5,
+                "type": "shoulder",
+                "status": "closed"
+            }
+        ],
+        "reduced_speed_limit_mph": "",
+        "reduced_speed_limit_kph": "",
+        "restrictions": [
+            
+        ],
+        "vehicleImpact": "",
+        "typesOfWork": ""
+    },
+    {
+        "id": "202358",
+        "type": "Disabled Vehicle-Occupied",
+        "conditions": [
+            "Rain",
+            "Flat Tire",
+            "Passenger Vehicle",
+            "Wet Pavement"
+        ],
+        "location": "I-65 North at MM 130.3 Approaching I-264 in Jefferson County",
+        "creationDateUTC": "2024-01-24T17:15:19Z",
+        "incidentStart": "2024-01-24T12:13:43-05:00",
+        "incidentStartUTC": "2024-01-24T17:13:43Z",
+        "estimatedEnd": "1 Hours ",
+        "estimatedEndDate": "2024-01-24T13:13:43-05:00",
+        "estimatedEndDateUTC": "2024-01-24T18:13:43Z",
+        "updateDate": "2024-01-24T12:18:03-05:00",
+        "updateDateUTC": "2024-01-24T17:18:03Z",
+        "vehiclesInvolved": "1",
+        "notes": "May be viewed on CCTV_05_65_1307",
+        "state": "Kentucky",
+        "county": "Jefferson",
+        "highway": "I-65",
+        "roadway": "I-65",
+        "direction": "N ",
+        "mileMarker": "130.3",
+        "endMileMarker": "",
+        "latitude": "38.185440",
+        "longitude": "-85.724260",
+        "crossRoad": "I-264",
+        "blockedLanes": "0",
+        "cardinalClosed": false,
+        "blockedLanesCardinal": "Left Shoulder Blocked. All Lanes Open.",
+        "numberOfBlockedTravelLanesCardinal": 0,
+        "nonCardinalClosed": false,
+        "blockedLanesNonCardinal": "",
+        "numberOfBlockedTravelLanesNonCardinal": 0,
+        "lanesCardinal": [
+            {
+                "order": 1,
+                "type": "shoulder",
+                "status": "closed"
+            },
+            {
+                "order": 2,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 3,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 4,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 5,
+                "type": "shoulder",
+                "status": "open"
+            }
+        ],
+        "lanesNonCardinal": [
+            
+        ],
+        "reduced_speed_limit_mph": "",
+        "reduced_speed_limit_kph": "",
+        "restrictions": [
+            
+        ],
+        "vehicleImpact": "",
+        "typesOfWork": ""
+    },
+    {
+        "id": "169158",
+        "type": "Construction / Road Work",
+        "conditions": [
+            "Construction",
+            "Guardrail",
+            "Mowing/Paving/Potholes",
+            "Mobile Maintenance",
+            "Expansion Joint",
+            "Temp Closure",
+            "Painting/Striping",
+            "Rolling Roadwork",
+            "Dry Pavement"
+        ],
+        "location": "I-265 North between MM 25.0 and 27.0 Area of I-64 in Jefferson County",
+        "creationDateUTC": "",
+        "incidentStart": "2022-09-15T20:00:00-04:00",
+        "incidentStartUTC": "2022-09-16T00:00:00Z",
+        "estimatedEnd": "999 Days ",
+        "estimatedEndDate": "2025-06-10T20:00:00-04:00",
+        "estimatedEndDateUTC": "2025-06-11T00:00:00Z",
+        "updateDate": "2023-06-15T11:09:30-04:00",
+        "updateDateUTC": "2023-06-15T15:09:30Z",
+        "vehiclesInvolved": "0",
+        "notes": "The I-Move project advises motorists of LONG TERM traffic split for I-265 North from the I-64 interchange to Shelbyville Road. Crews will split the north bound driving lanes. During this phase of the project all traffic needing to exit onto I-64 or Shelbyville Road must use the right lane.\n\nI-265 North Left lane traffic will be moved across the median to utilize the current southbound lanes and barrier walls will be in place to seperate northbound and southbound traffic.\n\nThis long term split project will be to replace asphalt with concrete on I-265 North. There will be a width restriction in place for this area during construction.",
+        "state": "Kentucky",
+        "county": "Jefferson",
+        "highway": "I-265",
+        "roadway": "I-265",
+        "direction": "N ",
+        "mileMarker": "25.0",
+        "endMileMarker": "27.0",
+        "latitude": "38.222870",
+        "longitude": "-85.505500",
+        "crossRoad": "I-64",
+        "blockedLanes": "1",
+        "cardinalClosed": false,
+        "blockedLanesCardinal": "Left Shoulder and Left Lane Blocked.",
+        "numberOfBlockedTravelLanesCardinal": 1,
+        "nonCardinalClosed": false,
+        "blockedLanesNonCardinal": "",
+        "numberOfBlockedTravelLanesNonCardinal": 0,
+        "lanesCardinal": [
+            {
+                "order": 1,
+                "type": "shoulder",
+                "status": "closed"
+            },
+            {
+                "order": 2,
+                "type": "general",
+                "status": "closed"
+            },
+            {
+                "order": 3,
+                "type": "general",
+                "status": "open"
+            },
+            {
+                "order": 4,
+                "type": "shoulder",
+                "status": "open"
+            }
+        ],
+        "lanesNonCardinal": [
+            
+        ],
+        "reduced_speed_limit_mph": "",
+        "reduced_speed_limit_kph": "",
+        "restrictions": [
+            
+        ],
+        "vehicleImpact": "",
+        "typesOfWork": ""
+    }
+]

@@ -1,0 +1,2342 @@
+[
+    {
+        "sign": "DMS05001",
+        "status": "Online",
+        "location": "I-64 West at Shelby Co. Line",
+        "state": "Kentucky",
+        "highway": "I-64",
+        "direction": "West",
+        "milemarker": "24.1",
+        "latitude": "38.217598",
+        "longitude": "-85.410475",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "ROADWORK",
+                    "IN 5 MILES",
+                    "RIGHT LANE CLOSED"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05002",
+        "status": "Offline",
+        "location": "I-71 South at Zorn Ave",
+        "state": "Kentucky",
+        "highway": "I-71",
+        "direction": "South",
+        "milemarker": "2.4",
+        "latitude": "38.279698",
+        "longitude": "-85.689846",
+        "dwell": "2.8",
+        "frames": [
+            {
+                "lines": [
+                    "WATCH",
+                    "FOR ICE",
+                    "& SNOW"
+                ]
+            },
+            {
+                "lines": [
+                    "DRIVE ",
+                    "SAFELY",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05003",
+        "status": "Online",
+        "location": "I-64 West at Oxmoor Farm Rd (Mile 13.4)",
+        "state": "Kentucky",
+        "highway": "I-64",
+        "direction": "West",
+        "milemarker": "13.7",
+        "latitude": "38.229967",
+        "longitude": "-85.599097",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "REDUCE SPEED",
+                    "DURING ",
+                    "WET CONDITIONS"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05004",
+        "status": "Offline",
+        "location": "I-64 West at Grinstead 7.6",
+        "state": "Kentucky",
+        "highway": "I-64",
+        "direction": "West",
+        "milemarker": "7.6",
+        "latitude": "38.249683",
+        "longitude": "-85.708928",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "MAJOR ROADWORK",
+                    "IN 7 MILES",
+                    "LANES CLOSED"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05005",
+        "status": "Online",
+        "location": "I-64 East at 22nd Street 3.1",
+        "state": "Kentucky",
+        "highway": "I-64",
+        "direction": "East",
+        "milemarker": "3.0",
+        "latitude": "38.266553",
+        "longitude": "-85.779650",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "REDUCE SPEED",
+                    "DURING ",
+                    "WET CONDITIONS"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05006",
+        "status": "Online",
+        "location": "I-65 North at St. Catherine 134.8",
+        "state": "Kentucky",
+        "highway": "I-65",
+        "direction": "North",
+        "milemarker": "134.8",
+        "latitude": "38.237133",
+        "longitude": "-85.752414",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "MAJOR ROADWORK",
+                    "I-64 WEST AT MILE 1",
+                    "LANES CLOSED"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05007",
+        "status": "Online",
+        "location": "I-71 North north of Frankfort Ave (0.4)",
+        "state": "Kentucky",
+        "highway": "I-71",
+        "direction": "North",
+        "milemarker": "0.4",
+        "latitude": "38.262818",
+        "longitude": "-85.719693",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "REDUCE SPEED",
+                    "DURING ",
+                    "WET CONDITIONS"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05010",
+        "status": "Online",
+        "location": "I-264 West at Bells Lane (4.0)",
+        "state": "Kentucky",
+        "highway": "I-264",
+        "direction": "West",
+        "milemarker": "4.2",
+        "latitude": "38.224603",
+        "longitude": "-85.821897",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "MAJOR ROADWORK",
+                    "I-64 WEST AT MILE 1",
+                    "LANES CLOSED"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05011",
+        "status": "Offline",
+        "location": "I-65 North at Fern Valley Rd 128.6",
+        "state": "Kentucky",
+        "highway": "I-65",
+        "direction": "North",
+        "milemarker": "128.8",
+        "latitude": "",
+        "longitude": "",
+        "dwell": "",
+        "frames": [
+            
+        ]
+    },
+    {
+        "sign": "DMS05012",
+        "status": "Online",
+        "location": "I-264 West at Newburg Rd 14.0",
+        "state": "Kentucky",
+        "highway": "I-264",
+        "direction": "West",
+        "milemarker": "14.3",
+        "latitude": "38.201528",
+        "longitude": "-85.692031",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "REDUCE SPEED",
+                    "DURING ",
+                    "WET CONDITIONS"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05013",
+        "status": "Online",
+        "location": "I-264 East at Southern Pkwy 10.0",
+        "state": "Kentucky",
+        "highway": "I-264",
+        "direction": "East",
+        "milemarker": "10.0",
+        "latitude": "38.189769",
+        "longitude": "-85.767756",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "REDUCE SPEED",
+                    "DURING ",
+                    "WET CONDITIONS"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05015",
+        "status": "Online",
+        "location": "I-264 East at Virginia/Dumesnil",
+        "state": "Kentucky",
+        "highway": "I-264",
+        "direction": "East",
+        "milemarker": "2.9",
+        "latitude": "38.237750",
+        "longitude": "-85.817022",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "REDUCE SPEED",
+                    "DURING ",
+                    "WET CONDITIONS"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05016",
+        "status": "Online",
+        "location": "I-71 South at MM 11 prior to I-265",
+        "state": "Kentucky",
+        "highway": "I-71",
+        "direction": "South",
+        "milemarker": "11.2",
+        "latitude": "38.327452",
+        "longitude": "-85.547509",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "REDUCE SPEED",
+                    "DURING ",
+                    "WET CONDITIONS"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05017",
+        "status": "Online",
+        "location": "I-71 South at MM 8.5 just south of I-265",
+        "state": "Kentucky",
+        "highway": "I-71",
+        "direction": "South",
+        "milemarker": "8.5",
+        "latitude": "38.307349",
+        "longitude": "-85.597315",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "         MILES  MIN",
+                    "I-264        3    3",
+                    "DOWNTOWN    10   10"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05018",
+        "status": "Online",
+        "location": "I-71 North at Jeff/Oldham Co Line (11.6)",
+        "state": "Kentucky",
+        "highway": "I-71",
+        "direction": "North",
+        "milemarker": "11.6",
+        "latitude": "38.330627",
+        "longitude": "-85.541417",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "REDUCE",
+                    "SPEED ON",
+                    "WET ROADS"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05019",
+        "status": "Online",
+        "location": "I-265 South At Old Henry Rd (27.8)",
+        "state": "Kentucky",
+        "highway": "I-265",
+        "direction": "South",
+        "milemarker": "28.2",
+        "latitude": "38.259682",
+        "longitude": "-85.502394",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "REDUCE",
+                    "SPEED ON",
+                    "WET ROADS"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05020",
+        "status": "Online",
+        "location": "I-265 North @ Taylorsville Rd (24.2)",
+        "state": "Kentucky",
+        "highway": "I-265",
+        "direction": "South",
+        "milemarker": "24.0",
+        "latitude": "38.205510",
+        "longitude": "-85.506742",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "REDUCE",
+                    "SPEED ON",
+                    "WET ROADS"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05021",
+        "status": "Online",
+        "location": "I-265 West west of Smyrna Rd. (12.8)",
+        "state": "Kentucky",
+        "highway": "I-265",
+        "direction": "West",
+        "milemarker": "13.2",
+        "latitude": "38.116681",
+        "longitude": "-85.656388",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "REDUCE",
+                    "SPEED ON",
+                    "WET ROADS"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05022",
+        "status": "Online",
+        "location": "841 East east of New Cut Rd (6.8)",
+        "state": "Kentucky",
+        "highway": "KY 841",
+        "direction": "South",
+        "milemarker": "7.0",
+        "latitude": "38.117643",
+        "longitude": "-85.763526",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "REDUCE",
+                    "SPEED ON",
+                    "WET ROADS"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05023",
+        "status": "Online",
+        "location": "I-265 North at Westport Rd (32.5mm)",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "38.302927",
+        "longitude": "-85.556841",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "REDUCE SPEED",
+                    "DURING ",
+                    "WET CONDITIONS"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05024",
+        "status": "Online",
+        "location": "I-71 North at MM 8.5 prior to I-265",
+        "state": "Kentucky",
+        "highway": "I-71",
+        "direction": "North",
+        "milemarker": "8.5",
+        "latitude": "38.307466",
+        "longitude": "-85.596038",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "REDUCE SPEED",
+                    "DURING ",
+                    "WET CONDITIONS"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05025",
+        "status": "Offline",
+        "location": "",
+        "state": "",
+        "highway": "I-64",
+        "direction": "East",
+        "milemarker": "4.0",
+        "latitude": "",
+        "longitude": "",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "TEST",
+                    "MESSAGE",
+                    "0123456789"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05090",
+        "status": "Online",
+        "location": "I-65 South @ Arthur St (mile 133.5)",
+        "state": "Kentucky",
+        "highway": "I-65",
+        "direction": "",
+        "milemarker": "133.5",
+        "latitude": "38.222214",
+        "longitude": "-85.751432",
+        "dwell": "",
+        "frames": [
+            
+        ]
+    },
+    {
+        "sign": "DMS05092",
+        "status": "Online",
+        "location": "I-71 at MM 6.5",
+        "state": "Kentucky",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "",
+        "longitude": "",
+        "dwell": "",
+        "frames": [
+            
+        ]
+    },
+    {
+        "sign": "DMS05093",
+        "status": "Online",
+        "location": "I-65 North north of Brooks",
+        "state": "Kentucky",
+        "highway": "I-65",
+        "direction": "North",
+        "milemarker": "",
+        "latitude": "38.081270",
+        "longitude": "-85.700330",
+        "dwell": "",
+        "frames": [
+            
+        ]
+    },
+    {
+        "sign": "DMS05094",
+        "status": "Online",
+        "location": "SWZT 94 - I-65 North, after Fern Valley (128.6)",
+        "state": "Kentucky",
+        "highway": "I-65",
+        "direction": "North",
+        "milemarker": "128.6",
+        "latitude": "38.165528",
+        "longitude": "-85.720413",
+        "dwell": "",
+        "frames": [
+            
+        ]
+    },
+    {
+        "sign": "DMS05096",
+        "status": "Online",
+        "location": "at TRIMARC",
+        "state": "Kentucky",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "",
+        "longitude": "",
+        "dwell": "",
+        "frames": [
+            
+        ]
+    },
+    {
+        "sign": "DMS05100",
+        "status": "Online",
+        "location": "ADMS northbound Grinstead/Lexington Rd",
+        "state": "Kentucky",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "38.245645",
+        "longitude": "-85.701287",
+        "dwell": "",
+        "frames": [
+            
+        ]
+    },
+    {
+        "sign": "DMS05101",
+        "status": "Online",
+        "location": "ADMS at Grinstead",
+        "state": "Kentucky",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "38.248522",
+        "longitude": "-85.699427",
+        "dwell": "",
+        "frames": [
+            
+        ]
+    },
+    {
+        "sign": "DMS05102",
+        "status": "Online",
+        "location": "ADMS westbound Lexington Rd",
+        "state": "Kentucky",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "38.245096",
+        "longitude": "-85.697357",
+        "dwell": "",
+        "frames": [
+            
+        ]
+    },
+    {
+        "sign": "DMS05103",
+        "status": "Online",
+        "location": "River Rd East at 2nd St.",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "38.258736",
+        "longitude": "-85.752926",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "REDUCE SPEED",
+                    "DURING ",
+                    "WET CONDITIONS"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05104",
+        "status": "Online",
+        "location": "Jefferson St. West Near 9th",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "38.254530",
+        "longitude": "-85.764093",
+        "dwell": "2.2",
+        "frames": [
+            {
+                "lines": [
+                    "ROADWORK",
+                    "I-64W AT MM 1",
+                    "ON BRIDGE"
+                ]
+            },
+            {
+                "lines": [
+                    "ROADWORK",
+                    "I-64W AT MM 1",
+                    "LANES CLOSED"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05105",
+        "status": "Online",
+        "location": "Main St West at 9th St.",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "38.257561",
+        "longitude": "-85.764840",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "REDUCE SPEED",
+                    "DURING ",
+                    "WET CONDITIONS"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05106",
+        "status": "Online",
+        "location": "9th St North near Market St.",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "38.255122",
+        "longitude": "-85.764888",
+        "dwell": "2.2",
+        "frames": [
+            {
+                "lines": [
+                    "ROADWORK",
+                    "I-64W AT MM 1",
+                    "ON BRIDGE"
+                ]
+            },
+            {
+                "lines": [
+                    "ROADWORK",
+                    "I-64W AT MM 1",
+                    "LANES CLOSED"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05107",
+        "status": "Online",
+        "location": "Preston St South at Liberty St",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "38.251679",
+        "longitude": "-85.746591",
+        "dwell": "2.2",
+        "frames": [
+            {
+                "lines": [
+                    "ROADWORK",
+                    "I-64W AT MM 1",
+                    "ON BRIDGE"
+                ]
+            },
+            {
+                "lines": [
+                    "ROADWORK",
+                    "I-64W AT MM 1",
+                    "LANES CLOSED"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05108",
+        "status": "Online",
+        "location": "Liberty St East at Floyd St",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "38.252172",
+        "longitude": "-85.748345",
+        "dwell": "2.2",
+        "frames": [
+            {
+                "lines": [
+                    "ROADWORK",
+                    "I-64W AT MM 1",
+                    "ON BRIDGE"
+                ]
+            },
+            {
+                "lines": [
+                    "ROADWORK",
+                    "I-64W AT MM 1",
+                    "LANES CLOSED"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05109",
+        "status": "Online",
+        "location": "Zorn Ave NB at I-71",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "38.273347",
+        "longitude": "-85.695805",
+        "dwell": "2.2",
+        "frames": [
+            {
+                "lines": [
+                    "ROADWORK",
+                    "I-64W AT MM 1",
+                    "ON BRIDGE"
+                ]
+            },
+            {
+                "lines": [
+                    "ROADWORK",
+                    "I-64W AT MM 1",
+                    "LANES CLOSED"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05110",
+        "status": "Online",
+        "location": "Zorn Ave SB at I-71",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "38.276124",
+        "longitude": "-85.698248",
+        "dwell": "2.2",
+        "frames": [
+            {
+                "lines": [
+                    "ROADWORK",
+                    "I-64W AT MM 1",
+                    "ON BRIDGE"
+                ]
+            },
+            {
+                "lines": [
+                    "ROADWORK",
+                    "I-64W AT MM 1",
+                    "LANES CLOSED"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05111",
+        "status": "Online",
+        "location": "Brownsboro Rd West (KY-22) before I-265",
+        "state": "Kentucky",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "38.312047",
+        "longitude": "-85.568928",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "REDUCE SPEED",
+                    "DURING ",
+                    "WET CONDITIONS"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05112",
+        "status": "Online",
+        "location": "Brownsboro Rd (KY-22) East, before I-265",
+        "state": "Kentucky",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "38.307566",
+        "longitude": "-85.574413",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "REDUCE SPEED",
+                    "DURING ",
+                    "WET CONDITIONS"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05204",
+        "status": "Online",
+        "location": "841 North north of I-71 (35.7mm)",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "38.318297",
+        "longitude": "-85.599777",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "REDUCE SPEED",
+                    "DURING ",
+                    "WET CONDITIONS"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05206",
+        "status": "Online",
+        "location": "841 South approaching I-71  (36.0mm)",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "38.318827",
+        "longitude": "-85.605624",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "REDUCE SPEED",
+                    "DURING ",
+                    "WET CONDITIONS"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05211",
+        "status": "Online",
+        "location": "841 North near East End Tunnel (36.9mm)",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "38.323953",
+        "longitude": "-85.620226",
+        "dwell": "",
+        "frames": [
+            
+        ]
+    },
+    {
+        "sign": "DMS05214",
+        "status": "Online",
+        "location": "KY 841 South near East End Tunnel (37.4mm)",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "38.328060",
+        "longitude": "-85.626438",
+        "dwell": "",
+        "frames": [
+            
+        ]
+    },
+    {
+        "sign": "DMS05217",
+        "status": "Online",
+        "location": "841 North before Lewis & Clark Brdg (37.8mm)",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "38.332857",
+        "longitude": "-85.631534",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "REDUCE SPEED",
+                    "DURING ",
+                    "WET CONDITIONS"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05219",
+        "status": "Online",
+        "location": "841 South Mile 38.0",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "38.334751",
+        "longitude": "-85.634109",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "REDUCE SPEED",
+                    "DURING ",
+                    "WET CONDITIONS"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS05999",
+        "status": "Online",
+        "location": "Emulator for Testing",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "",
+        "longitude": "",
+        "dwell": "",
+        "frames": [
+            
+        ]
+    },
+    {
+        "sign": "DMS06001",
+        "status": "Online",
+        "location": "I-71 South MP 73.9",
+        "state": "",
+        "highway": "I-71",
+        "direction": "Southwest",
+        "milemarker": "73.9",
+        "latitude": "38.850861",
+        "longitude": "-84.665436",
+        "dwell": "",
+        "frames": [
+            
+        ]
+    },
+    {
+        "sign": "DMS06039",
+        "status": "Online",
+        "location": "I-71/75 North - north of Kyles Lane (189.2)",
+        "state": "",
+        "highway": "I-71/75",
+        "direction": "North",
+        "milemarker": "189.2",
+        "latitude": "39.060697",
+        "longitude": "-84.529055",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "          MI  MIN",
+                    "75 TO 562  11  13",
+                    "71 TO 562  12  12"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS06042",
+        "status": "Online",
+        "location": "I-275 East before 71/75 (1.0)",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "39.044085",
+        "longitude": "-84.614610",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "       MILES  MIN",
+                    "I471        9   9",
+                    "I75N OHIO   9   9"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS06043",
+        "status": "Online",
+        "location": "I-71/75 North  just past Turfway Rd (183 )",
+        "state": "",
+        "highway": "I-71/75",
+        "direction": "North",
+        "milemarker": "183.8",
+        "latitude": "39.017882",
+        "longitude": "-84.622518",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "TO OHIO:   MI MIN",
+                    "ON 71/75    8   9",
+                    "ON 275/471 16  16"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS06045",
+        "status": "Online",
+        "location": "I-275 WB @ East of Turkey Foot (81.2)",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "81.2",
+        "latitude": "39.026740",
+        "longitude": "-84.552739",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "     MINUTES TO:",
+                    "AIRPORT         6",
+                    "S 71/75 SPLIT  16"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS06047",
+        "status": "Online",
+        "location": "I-275 East - east of Johns Hill Rd. (76.2)",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "76.2",
+        "latitude": "39.033299",
+        "longitude": "-84.470374",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "        MILES MIN",
+                    "OH SR32    12  12",
+                    "471N TO 71  6   6"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS06048",
+        "status": "Online",
+        "location": "I-471 South - south of US-27 (1.4)",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "1.4",
+        "latitude": "39.062522",
+        "longitude": "-84.468569",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "           MI MIN",
+                    "275W TO 75  9   9",
+                    "275E TO 32 12  12"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS06049",
+        "status": "Online",
+        "location": "I-471 North -south of I-275 (0.0)",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "0.0",
+        "latitude": "39.037995",
+        "longitude": "-84.453857",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "       MILES  MIN",
+                    "I-71       6    5",
+                    "275W TO 75 9    9"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS06050",
+        "status": "Online",
+        "location": "I-275 West -east of Alexandria Pike (73.9)",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "73.9",
+        "latitude": "39.052958",
+        "longitude": "-84.440626",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "        MILES MIN",
+                    "I-71/75     9   9",
+                    "471N TO 71  6   6"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS06051",
+        "status": "Online",
+        "location": "I-275 East - under Alexandria Pike (74.1)",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "74.1",
+        "latitude": "39.049756",
+        "longitude": "-84.447066",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "       MILES  MIN",
+                    "OH SR32   11   11",
+                    "I-71      25   25"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS06052",
+        "status": "Online",
+        "location": "I-471 North @ Grand Ave. (2.9)",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "2.9",
+        "latitude": "39.081178",
+        "longitude": "-84.471083",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "        MILES MIN",
+                    "71S TO 75   4   4",
+                    "71N TO 562  9   9"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS06059",
+        "status": "Online",
+        "location": "I-71/75 South @ Mt. Zion Rd (178.2)",
+        "state": "",
+        "highway": "I-71/75",
+        "direction": "South",
+        "milemarker": "178.2",
+        "latitude": "38.957872",
+        "longitude": "-84.635151",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "         MILES  MIN",
+                    "I-71/75   6     6"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS06060",
+        "status": "Online",
+        "location": "I-71/75 North @ Richwood Rd (175.8)",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "175.8",
+        "latitude": "38.925937",
+        "longitude": "-84.629966",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "        MILES  MIN",
+                    "I-275      8    8",
+                    "OHIO      15   16"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS06091",
+        "status": "Online",
+        "location": "I-71/75 North Mile 185.6, just north of I-275 near traffic cabinet",
+        "state": "Kentucky",
+        "highway": "I-71/75",
+        "direction": "North",
+        "milemarker": "185.6",
+        "latitude": "39.040238",
+        "longitude": "-84.586126",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS06095",
+        "status": "Online",
+        "location": "I-71/75 North @ Mile 187.2",
+        "state": "Kentucky",
+        "highway": "I-71/75",
+        "direction": "North",
+        "milemarker": "187.2",
+        "latitude": "39.051544",
+        "longitude": "-84.560001",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "DMS07004",
+        "status": "Online",
+        "location": "I-64 East MP 63",
+        "state": "Kentucky",
+        "highway": "I-64",
+        "direction": "East",
+        "milemarker": "63.0",
+        "latitude": "38.161575",
+        "longitude": "-84.712016",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "       MILES  MIN",
+                    "I-75 N  11     11",
+                    "I-64 E  17     16"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "KYTC.DMS01001",
+        "status": "Online",
+        "location": "I-24 West MP 9",
+        "state": "",
+        "highway": "I-24",
+        "direction": "Northwest",
+        "milemarker": "9.0",
+        "latitude": "37.027086",
+        "longitude": "-88.613517",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "FENDERS BEND",
+                    "BONES DON'T",
+                    ""
+                ]
+            },
+            {
+                "lines": [
+                    "BUCKLE UP",
+                    "IN",
+                    "YOUR TRUCK"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "KYTC.DMS01002",
+        "status": "Online",
+        "location": "I-24 West MP 7",
+        "state": "",
+        "highway": "I-24",
+        "direction": "Northwest",
+        "milemarker": "7.0",
+        "latitude": "37.062559",
+        "longitude": "-88.662725",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "FENDERS BEND",
+                    "BONES DON'T",
+                    ""
+                ]
+            },
+            {
+                "lines": [
+                    "BUCKLE UP",
+                    "IN",
+                    "YOUR TRUCK"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "KYTC.DMS01003",
+        "status": "Online",
+        "location": "I-24 East MP 3",
+        "state": "",
+        "highway": "I-24",
+        "direction": "Southeast",
+        "milemarker": "3.0",
+        "latitude": "37.098099",
+        "longitude": "-88.688477",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "FENDERS BEND",
+                    "BONES DON'T",
+                    ""
+                ]
+            },
+            {
+                "lines": [
+                    "BUCKLE UP",
+                    "IN",
+                    "YOUR TRUCK"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "KYTC.DMS02001",
+        "status": "Online",
+        "location": "I-24 West MP 92",
+        "state": "",
+        "highway": "I-24",
+        "direction": "Northwest",
+        "milemarker": "92.0",
+        "latitude": "36.649006",
+        "longitude": "-87.352077",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "FENDERS BEND",
+                    "BONES DON'T",
+                    ""
+                ]
+            },
+            {
+                "lines": [
+                    "BUCKLE UP",
+                    "IN",
+                    "YOUR TRUCK"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "KYTC.DMS02002",
+        "status": "Online",
+        "location": "US 41 South at Gate 7",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "36.679678",
+        "longitude": "-87.447895",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "FENDERS BEND",
+                    "BONES DON'T",
+                    ""
+                ]
+            },
+            {
+                "lines": [
+                    "BUCKLE UP",
+                    "IN",
+                    "YOUR TRUCK"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "KYTC.DMS02003",
+        "status": "Online",
+        "location": "KY 911 West at US 41",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "36.665400",
+        "longitude": "-87.441338",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "FENDERS BEND",
+                    "BONES DON'T",
+                    ""
+                ]
+            },
+            {
+                "lines": [
+                    "BUCKLE UP",
+                    "IN",
+                    "YOUR TRUCK"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "KYTC.DMS03001",
+        "status": "Online",
+        "location": "I-65 North MP 17.9",
+        "state": "",
+        "highway": "I-65",
+        "direction": "Northeast",
+        "milemarker": "17.9",
+        "latitude": "36.873837",
+        "longitude": "-86.447864",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "FENDERS BEND",
+                    "BONES DON'T",
+                    ""
+                ]
+            },
+            {
+                "lines": [
+                    "BUCKLE UP",
+                    "IN",
+                    "YOUR TRUCK"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "KYTC.DMS03002",
+        "status": "Online",
+        "location": "I-65 South MP 54.7",
+        "state": "",
+        "highway": "I-65",
+        "direction": "Southwest",
+        "milemarker": "54.7",
+        "latitude": "37.166864",
+        "longitude": "-85.963927",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "FENDERS BEND",
+                    "BONES DON'T",
+                    ""
+                ]
+            },
+            {
+                "lines": [
+                    "BUCKLE UP",
+                    "IN",
+                    "YOUR TRUCK"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "KYTC.DMS03003",
+        "status": "Online",
+        "location": "I-65 South MP 32.6",
+        "state": "",
+        "highway": "I-65",
+        "direction": "South",
+        "milemarker": "32.6",
+        "latitude": "37.014271",
+        "longitude": "-86.286033",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "WATCH FOR ",
+                    "SLOW OR STOPPED ",
+                    "TRAFFIC KY/TN LINE"
+                ]
+            },
+            {
+                "lines": [
+                    "DUE TO ",
+                    "ROADWORK",
+                    "IN TENNESSEE"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "KYTC.DMS03004",
+        "status": "Online",
+        "location": "I-65 North MP 36.6",
+        "state": "",
+        "highway": "I-65",
+        "direction": "Northeast",
+        "milemarker": "36.6",
+        "latitude": "37.038974",
+        "longitude": "-86.227218",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "FENDERS BEND",
+                    "BONES DON'T",
+                    ""
+                ]
+            },
+            {
+                "lines": [
+                    "BUCKLE UP",
+                    "IN",
+                    "YOUR TRUCK"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "KYTC.DMS03005",
+        "status": "Online",
+        "location": "Natcher Pkwy South MP 4.8",
+        "state": "",
+        "highway": "",
+        "direction": "Southwest",
+        "milemarker": "4.8",
+        "latitude": "36.952520",
+        "longitude": "-86.496272",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "FENDERS BEND",
+                    "BONES DON'T",
+                    ""
+                ]
+            },
+            {
+                "lines": [
+                    "BUCKLE UP",
+                    "IN",
+                    "YOUR TRUCK"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "KYTC.DMS03006",
+        "status": "Online",
+        "location": "KY 446 North @ US 31W",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "37.008605",
+        "longitude": "-86.376766",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "FENDERS BEND",
+                    "BONES DON'T",
+                    ""
+                ]
+            },
+            {
+                "lines": [
+                    "BUCKLE UP",
+                    "IN",
+                    "YOUR TRUCK"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "KYTC.DMS03007",
+        "status": "Online",
+        "location": "Louie B Nunn Pkwy West MP 3",
+        "state": "",
+        "highway": "",
+        "direction": "Northwest",
+        "milemarker": "3.0",
+        "latitude": "37.037680",
+        "longitude": "-86.059696",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "FENDERS BEND",
+                    "BONES DON'T",
+                    ""
+                ]
+            },
+            {
+                "lines": [
+                    "BUCKLE UP",
+                    "IN",
+                    "YOUR TRUCK"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "KYTC.DMS03008",
+        "status": "Offline",
+        "location": "US 31W North MP 7",
+        "state": "",
+        "highway": "",
+        "direction": "Northeast",
+        "milemarker": "7.0",
+        "latitude": "36.919955",
+        "longitude": "-86.502678",
+        "dwell": "",
+        "frames": [
+            
+        ]
+    },
+    {
+        "sign": "KYTC.DMS03009",
+        "status": "Offline",
+        "location": "US 231 North @ Natcher",
+        "state": "",
+        "highway": "",
+        "direction": "Northeast",
+        "milemarker": "",
+        "latitude": "36.894676",
+        "longitude": "-86.378628",
+        "dwell": "",
+        "frames": [
+            
+        ]
+    },
+    {
+        "sign": "KYTC.DMS03010",
+        "status": "Online",
+        "location": "I-65 North MP 0.7",
+        "state": "",
+        "highway": "I-65",
+        "direction": "North",
+        "milemarker": "0.7",
+        "latitude": "36.648418",
+        "longitude": "-86.568212",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "FENDERS BEND",
+                    "BONES DON'T",
+                    ""
+                ]
+            },
+            {
+                "lines": [
+                    "BUCKLE UP",
+                    "IN",
+                    "YOUR TRUCK"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "KYTC.DMS04002",
+        "status": "Online",
+        "location": "I-65 North MP 92.6",
+        "state": "",
+        "highway": "I-65",
+        "direction": "North",
+        "milemarker": "92.6",
+        "latitude": "37.693504",
+        "longitude": "-85.839620",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "FENDERS BEND",
+                    "BONES DON'T",
+                    ""
+                ]
+            },
+            {
+                "lines": [
+                    "BUCKLE UP",
+                    "IN",
+                    "YOUR TRUCK"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "KYTC.DMS04003",
+        "status": "Online",
+        "location": "I-65 South MP 92.4",
+        "state": "",
+        "highway": "I-65",
+        "direction": "South",
+        "milemarker": "92.4",
+        "latitude": "37.690733",
+        "longitude": "-85.841787",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "FENDERS BEND",
+                    "BONES DON'T",
+                    ""
+                ]
+            },
+            {
+                "lines": [
+                    "BUCKLE UP",
+                    "IN",
+                    "YOUR TRUCK"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "KYTC.DMS04004",
+        "status": "Online",
+        "location": "I-65 South MP 89.2",
+        "state": "",
+        "highway": "I-65",
+        "direction": "Southwest",
+        "milemarker": "89.2",
+        "latitude": "37.646560",
+        "longitude": "-85.857969",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "FENDERS BEND",
+                    "BONES DON'T",
+                    ""
+                ]
+            },
+            {
+                "lines": [
+                    "BUCKLE UP",
+                    "IN",
+                    "YOUR TRUCK"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "KYTC.DMS04005",
+        "status": "Online",
+        "location": "I-65 North MP 73.9",
+        "state": "",
+        "highway": "I-65",
+        "direction": "North",
+        "milemarker": "73.9",
+        "latitude": "37.427622",
+        "longitude": "-85.882868",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "FENDERS BEND",
+                    "BONES DON'T",
+                    ""
+                ]
+            },
+            {
+                "lines": [
+                    "BUCKLE UP",
+                    "IN",
+                    "YOUR TRUCK"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "KYTC.DMS04007",
+        "status": "Online",
+        "location": "WK Pkwy East MP 129",
+        "state": "",
+        "highway": "",
+        "direction": "Southeast",
+        "milemarker": "129.0",
+        "latitude": "37.619171",
+        "longitude": "-85.954515",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "FENDERS BEND",
+                    "BONES DON'T",
+                    ""
+                ]
+            },
+            {
+                "lines": [
+                    "BUCKLE UP",
+                    "IN",
+                    "YOUR TRUCK"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "KYTC.DMS05031",
+        "status": "Online",
+        "location": "I-65 South MP 107.8",
+        "state": "",
+        "highway": "I-65",
+        "direction": "South",
+        "milemarker": "107.8",
+        "latitude": "37.869296",
+        "longitude": "-85.704654",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "FENDERS BEND",
+                    "BONES DON'T",
+                    ""
+                ]
+            },
+            {
+                "lines": [
+                    "BUCKLE UP",
+                    "IN",
+                    "YOUR TRUCK"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "KYTC.DMS07001",
+        "status": "Online",
+        "location": "I-75 North MP 127",
+        "state": "",
+        "highway": "I-75",
+        "direction": "Northeast",
+        "milemarker": "127.0",
+        "latitude": "38.249393",
+        "longitude": "-84.547586",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "FENDERS BEND",
+                    "BONES DON'T",
+                    ""
+                ]
+            },
+            {
+                "lines": [
+                    "BUCKLE UP",
+                    "IN",
+                    "YOUR TRUCK"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "KYTC.DMS07002",
+        "status": "Online",
+        "location": "I-75 South MP 127",
+        "state": "",
+        "highway": "I-75",
+        "direction": "Southwest",
+        "milemarker": "127.0",
+        "latitude": "38.295204",
+        "longitude": "-84.558993",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "        MILES MIN",
+                    "I-64 WEST  13  12",
+                    "I-64 EAST  20  17"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "KYTC.DMS07003",
+        "status": "Online",
+        "location": "I-64 West MP 97",
+        "state": "",
+        "highway": "I-64",
+        "direction": "Northwest",
+        "milemarker": "97.0",
+        "latitude": "38.015881",
+        "longitude": "-84.160853",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "          MILES  MIN",
+                    "I-75 SOUTH  16  14",
+                    "I-75 NORTH  22  19"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "KYTC.DMS07005",
+        "status": "Online",
+        "location": "I-75 North MP 93",
+        "state": "",
+        "highway": "I-75",
+        "direction": "Northeast",
+        "milemarker": "93.0",
+        "latitude": "37.816595",
+        "longitude": "-84.323276",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "         MILES MIN",
+                    "I-64 EAST   18 16",
+                    "I-64 WEST   24 21"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "KYTC.DMS07006",
+        "status": "Online",
+        "location": "I-75 South MP 93",
+        "state": "",
+        "highway": "I-75",
+        "direction": "Southwest",
+        "milemarker": "93.0",
+        "latitude": "37.823180",
+        "longitude": "-84.324203",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "FENDERS BEND",
+                    "BONES DON'T",
+                    ""
+                ]
+            },
+            {
+                "lines": [
+                    "BUCKLE UP",
+                    "IN",
+                    "YOUR TRUCK"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "KYTC.DMS11001",
+        "status": "Online",
+        "location": "I-75 South MP 35",
+        "state": "",
+        "highway": "I-75",
+        "direction": "Southwest",
+        "milemarker": "35.0",
+        "latitude": "37.081246",
+        "longitude": "-84.099327",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "FENDERS BEND",
+                    "BONES DON'T",
+                    ""
+                ]
+            },
+            {
+                "lines": [
+                    "BUCKLE UP",
+                    "IN",
+                    "YOUR TRUCK"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "KYTC.DMS11002",
+        "status": "Online",
+        "location": "I-75 North MP 23",
+        "state": "",
+        "highway": "I-75",
+        "direction": "Northeast",
+        "milemarker": "23.0",
+        "latitude": "36.900878",
+        "longitude": "-84.135276",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "FENDERS BEND",
+                    "BONES DON'T",
+                    ""
+                ]
+            },
+            {
+                "lines": [
+                    "BUCKLE UP",
+                    "IN",
+                    "YOUR TRUCK"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "ORX02001",
+        "status": "Online",
+        "location": "",
+        "state": "Kentucky",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "",
+        "longitude": "",
+        "dwell": "0.0",
+        "frames": [
+            {
+                "lines": [
+                    "LANE",
+                    "SHIFT",
+                    "AHEAD"
+                ]
+            },
+            {
+                "lines": [
+                    "LANE",
+                    "SHIFT",
+                    "AHEAD"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "Sign Simulator 01",
+        "status": "Offline",
+        "location": "",
+        "state": "",
+        "highway": "",
+        "direction": "",
+        "milemarker": "",
+        "latitude": "",
+        "longitude": "",
+        "dwell": "",
+        "frames": [
+            
+        ]
+    },
+    {
+        "sign": "TPIMS001 (s1  -  13)",
+        "status": "Online",
+        "location": "I-75 SB @ MP 177.4     (1st Sign)",
+        "state": "Kentucky",
+        "highway": "I-75",
+        "direction": "South",
+        "milemarker": "177.4",
+        "latitude": "",
+        "longitude": "",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "37"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "TPIMS001 (s2  -  10)",
+        "status": "Online",
+        "location": "I-75 SB @ MP 177.4     (2nd Sign)",
+        "state": "Kentucky",
+        "highway": "I-75",
+        "direction": "South",
+        "milemarker": "177.4",
+        "latitude": "",
+        "longitude": "",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "37"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "TPIMS001 (s3  -  11)",
+        "status": "Online",
+        "location": "I-75 SB @ MP 177.4     (3rd Sign)",
+        "state": "Kentucky",
+        "highway": "I-75",
+        "direction": "South",
+        "milemarker": "177.4",
+        "latitude": "",
+        "longitude": "",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "30"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "TPIMS002 (s1  -  10)",
+        "status": "Online",
+        "location": "I-75 NB @ MP 170.8     (1st Sign)",
+        "state": "Kentucky",
+        "highway": "I-75",
+        "direction": "North",
+        "milemarker": "170.8",
+        "latitude": "",
+        "longitude": "",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "37"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "TPIMS002 (s2  -  12)",
+        "status": "Online",
+        "location": "I-75 NB @ MP 170.8     (2nd Sign)",
+        "state": "Kentucky",
+        "highway": "I-75",
+        "direction": "North",
+        "milemarker": "170.8",
+        "latitude": "",
+        "longitude": "",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "32"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "TPIMS003 (s1  -  07)",
+        "status": "Online",
+        "location": "I-75 SB @ MP 42.6",
+        "state": "Kentucky",
+        "highway": "I-75",
+        "direction": "South",
+        "milemarker": "42.6",
+        "latitude": "",
+        "longitude": "",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "7"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "TPIMS004 (s1  -  09)",
+        "status": "Online",
+        "location": "I-75 NB @ MP 161.3 (TN)     (1st Sign)",
+        "state": "",
+        "highway": "I-75",
+        "direction": "North",
+        "milemarker": "161.3",
+        "latitude": "",
+        "longitude": "",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "LOW"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "TPIMS004 (s2  -  08)",
+        "status": "Online",
+        "location": "I-75 NB @ MP 161.3 (TN)     (2nd Sign)",
+        "state": "",
+        "highway": "I-75",
+        "direction": "North",
+        "milemarker": "161.3",
+        "latitude": "",
+        "longitude": "",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "32"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "TPIMS005 (s1  -  03)",
+        "status": "Online",
+        "location": "I-65 NB @ TN MP 120.2     (1st Sign)",
+        "state": "",
+        "highway": "I-65",
+        "direction": "North",
+        "milemarker": "120.2",
+        "latitude": "",
+        "longitude": "",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "LOW"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "TPIMS005 (s2  -  01)",
+        "status": "Online",
+        "location": "I-65 NB @ TN MP 120.2     (2nd Sign)",
+        "state": "",
+        "highway": "I-65",
+        "direction": "North",
+        "milemarker": "120.2",
+        "latitude": "",
+        "longitude": "",
+        "dwell": "",
+        "frames": [
+            
+        ]
+    },
+    {
+        "sign": "TPIMS005 (s3  -  02)",
+        "status": "Online",
+        "location": "I-65 NB @ TN MP 120.2     (3rd Sign)",
+        "state": "",
+        "highway": "I-65",
+        "direction": "North",
+        "milemarker": "120.2",
+        "latitude": "",
+        "longitude": "",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "30"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "TPIMS006 (s1  -  04)",
+        "status": "Online",
+        "location": "I-65 SB @ MP 115     (1st Sign)",
+        "state": "Kentucky",
+        "highway": "I-65",
+        "direction": "South",
+        "milemarker": "115.0",
+        "latitude": "",
+        "longitude": "",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "9"
+                ]
+            }
+        ]
+    },
+    {
+        "sign": "TPIMS006 (s2  -  05)",
+        "status": "Online",
+        "location": "I-65 SB @ MP 115     (2nd Sign)",
+        "state": "Kentucky",
+        "highway": "I-65",
+        "direction": "South",
+        "milemarker": "115.0",
+        "latitude": "",
+        "longitude": "",
+        "dwell": "3.0",
+        "frames": [
+            {
+                "lines": [
+                    "104"
+                ]
+            }
+        ]
+    }
+]
